@@ -1,7 +1,10 @@
 {
-  "name": "retool-clone",
+  "name": "retool-builder-clone",
+  "description": "A drag-and-drop UI builder similar to Retool with text and image components in a responsive grid.",
+  "version": "0.1.0",
   "private": true,
-  "version": "0.0.0",
+  "author": "Mohammad Shamchi",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
